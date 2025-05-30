@@ -1,0 +1,15 @@
+Tem-se no loop a contagem de derrubados.
+
+Preciso identificar a distância do robô para a rampa.
+
+Se forem derrubados as quatro primeiras (4 primeiros poluentes com cores iguais), o protótipo elimina a rotina em que termina o outro lado, vai para o meio do tapete, abaixa a rampa e efetua a missão das árvores.
+
+Caso existam poluentes do outro lado o robô precisará fazer rotinas divergentes, a depender da última árvore:
+
+	Primeira: o robô volta 0*X cm (X corresponde à distância entre dois poluentes), vai para o meio do tapete, abaixa a rampa e efetua a missão das árvores.
+
+	Segunda: o robô volta 1*X cm, vai para o meio do tapete, abaixa a rampa e efetua a missão das árvores.
+
+	Terceira: o robô volta 3*X cm, vai para o meio do tapete, abaixa a rampa e efetua a missão das árvores.
+
+	Quarta: o robô volta 4*X cm, vai para o meio do tapete, abaixa a rampa e efetua a missão das árvores.
