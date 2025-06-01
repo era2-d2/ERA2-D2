@@ -64,11 +64,20 @@ O projeto está organizado da seguinte forma:
 
 ---
 
+## Outros Materiais
+
+- [Tabela de Gastos](https://drive.google.com/drive/u/3/folders/1ZpHwaeWIHNITP21ojMcyqOMGcibrnDnj)
+- [Relatório Sobre o Robô](https://drive.google.com/drive/u/3/folders/1UcZ1GNpwfR3S68cyZk29Z3KH6VcgLQlX)
+- [Animações](https://drive.google.com/drive/folders/1Vy_ZClelRn55KMFLFU6ARa01si_wWNVY)
+
+---
+
 ## Contato
 
+- 🌐 Site: https://makesoft.net.br/era2d2
+  
 - 📧 E-mail: era2d2cefet@gmail.com
 
 - 📷 Instagram: @era2d2
 
 - 🎥 TikTok: @era2d2
-
